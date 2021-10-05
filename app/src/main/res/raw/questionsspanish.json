@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Cuántos lamidos al centro de un tootsie pop?",
+    "answers": ["3", "0", "¿Qué?", "Probablemente infinito"],
+    "correct_answer": 0
+  },
+  {
+    "question": "",
+    "answers": ["", "", "", ""],
+    "correct_answer": 1
+  }
+]
