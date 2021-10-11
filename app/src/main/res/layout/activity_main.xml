@@ -8,10 +8,11 @@
 
     <TextView
         android:id="@+id/main_text_question"
-        android:layout_width="185dp"
-        android:layout_height="79dp"
-        android:layout_marginTop="69dp"
-        android:layout_marginBottom="583dp"
+        android:layout_width="228dp"
+        android:layout_height="114dp"
+        android:layout_marginTop="112dp"
+        android:layout_marginBottom="505dp"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"

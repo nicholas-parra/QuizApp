@@ -1,12 +1,17 @@
 [
   {
     "question": "How many licks to the center of a tootsie pop?",
-    "answers": ["3", "0", "What?", "Probably infinity"],
-    "correct_answer": 0
+    "answers": ["3", "364", "What?", "Probably infinity"],
+    "correct_answer": 1
   },
   {
     "question": "Question here",
     "answers": ["No", "Yes", "No", "No"],
+    "correct_answer": 1
+  },
+  {
+    "question": "How many questions have I asked you?",
+    "answers": ["At least 5", "Several", "Does this count?", "12"],
     "correct_answer": 1
   }
 ]
